@@ -5,6 +5,6 @@ Goal: Use the UCL polar ocean altimetry products to infer changes in the circula
 
 Data: Dynamic Ocean Topography (DOT), ocean geostrophic currents, Eddy Kinetic Energy (EKE), Ekman current and upwelling (http://www.cpom.ucl.ac.uk/dynamic_topography/)
 
-Tool: the python routines developped by Harry Heorton (see this GitHub)
+Tool: the python routines developped by Harry Heorton (DOT_Ekman_manual-master.zip directory in this GitHub)
 
 Github link: https://github.com/William-gregory/OptimalInterpolation
