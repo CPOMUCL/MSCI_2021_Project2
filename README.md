@@ -16,3 +16,7 @@ Bibliography:
 - Armitage, Thomas WK, et al. "Dynamic topography and sea level anomalies of the Southern Ocean: Variability and teleconnections." Journal of Geophysical Research: Oceans 123.1 (2018): 613-630.
 - Armitage, Thomas WK, et al. "Enhanced eddy activity in the Beaufort Gyre in response to sea ice loss." Nature communications 11.1 (2020): 1-8.
 - Prandi, Pierre, et al. "Arctic sea surface height maps from multi-altimeter combination." Earth System Science Data Discussions (2021): 1-29.
+
+![image](https://user-images.githubusercontent.com/29431131/135471161-db818b4e-c0ee-4d5d-b1fe-839a9b5fdd57.png)
+
+Winds (reanalysis - daily), geostrophic currents (altimetry - monthly) and sea ice motion (imagery – daily/weekly) remain uncertain. At high latitudes these resolutions can be improved due to high sampling (up to 82N) hence providing a better understanding of air-ice-ocean coupling.
